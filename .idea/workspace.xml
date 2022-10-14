@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74484d16-83b4-4ad1-8449-0331f2873572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logica-IfElse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8.java" afterDir="false" />
+    <list default="true" id="74484d16-83b4-4ad1-8449-0331f2873572" name="Changes" comment="PDF e Ex 1 ao 8">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -49,44 +51,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/IntelliJProjects/Lógica Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IntelliJProjects/Lógica Java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ex8">
-    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4" />
+}</component>
+  <component name="RunManager" selected="Application.Ex20">
+    <configuration name="Ex16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex16" />
       <module name="Logica-IfElse" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5" />
+    <configuration name="Ex17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex17" />
       <module name="Logica-IfElse" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6" />
+    <configuration name="Ex18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex18" />
       <module name="Logica-IfElse" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7" />
+    <configuration name="Ex19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex19" />
       <module name="Logica-IfElse" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex8" />
+    <configuration name="Ex20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex20" />
       <module name="Logica-IfElse" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex8" />
-        <item itemvalue="Application.Ex7" />
-        <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.Ex5" />
-        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Ex20" />
+        <item itemvalue="Application.Ex19" />
+        <item itemvalue="Application.Ex18" />
+        <item itemvalue="Application.Ex17" />
+        <item itemvalue="Application.Ex16" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +114,21 @@
       <option name="presentableId" value="Default" />
       <updated>1665675497603</updated>
     </task>
+    <task id="LOCAL-00001" summary="PDF e Ex 1 ao 8">
+      <created>1665678845385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665678845385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PDF e Ex 1 ao 8">
+      <created>1665678881693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665678881693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PDF e Ex 1 ao 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="PDF e Ex 1 ao 8" />
   </component>
 </project>
